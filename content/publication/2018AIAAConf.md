@@ -18,7 +18,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "In *AIAA Aviation Forum, Atlanta, Georgia*, 2018."
-publication_short = "*AIAA 2018----*"
+publication_short = "*AIAA 2018-3859*"
 
 # Abstract and optional shortened version.
 abstract = "The primary vortex pair generated due to a vortex generator, used in the control of boundary-layer separation, is considered to energize the near-wall flow downstream of the device. Depending on the orientation of the device with respect to the flow, a pair of primarily streamwise co-rotating or counter-rotating vortex pair is formed. In this paper, the evolution of the primary vortex pair is tracked for different types of wedge shaped vortex generators. The present study makes an attempt to compare the vortex evolution using a swirl center tracking technique.  Near surface contours of axial velocity, and contours of heliciity, will be compared to evaluate the effects of vortex strength, and rates of lift-off of the primary vortex pair formed due to the different devices. The computations performed in this work involve supersonic flows past single vortex generators at Mach 2.5 and uses an immersed-boundary method to render the control devices.  The flow solver used, REACTMB, is suitable for high-speed turbulent flows, and has been extensively validated in earlier works.  The turbulence model used is Menter’s  k-w/k-e SST version."
@@ -36,7 +36,7 @@ selected = false
 projects = ["FEST3D"]
 
 # Links (optional).
-#url_pdf = "https://www.researchgate.net/publication/303902194_Evaluation_of_Some_Wedge-shaped_Vortex_Generators_Using_Swirl_Center_Tracking"
+url_pdf = "files/publication/2018AIAA_FEST3D_Jatinder.pdf"
 #url_project = "#"
 
 # Custom links (optional).
@@ -51,6 +51,7 @@ highlight = true
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
+image = "2018Conf.jpg"
 
 +++
 
